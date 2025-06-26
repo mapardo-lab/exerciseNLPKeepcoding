@@ -1,4 +1,4 @@
-# exerciseNLPKeepcoding
+# NLP exercise Keepcoding
 
 Natural Language Processing exercise for Bootcamp BigData, Artificial Intelligence and Machine Learning
 

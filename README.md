@@ -6,4 +6,12 @@ This exercise involves performing sentiment analysis using product reviews from 
 
 http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Patio_Lawn_and_Garden_5.json.gz
 
+1_exerciseNLPKeepcoding.ipynb
 
+- Exploratory data analysis.
+- Word2vec model and embeddings exploration.
+
+2_exerciseNLPKeepcoding.ipynb
+
+- 
+-

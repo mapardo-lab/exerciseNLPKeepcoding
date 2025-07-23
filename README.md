@@ -8,8 +8,8 @@ http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Patio_La
 
 ### 1_exerciseNLPKeepcoding.ipynb
 
-- Exploratory data analysis.
-- Word2vec model and embeddings exploration.
+- Exploratory data analysis
+- Word2vec model and embeddings exploration
 
 ### 2_exerciseNLPKeepcoding.ipynb
 
@@ -22,5 +22,3 @@ http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Patio_La
 ### 4_exerciseNLPKeepcoding.ipynb
 
 - Metrics and conclusions
-- 
--
